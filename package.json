@@ -1,9 +1,9 @@
 {
   "name": "goit-js-hw-11",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
-  "homepage": "http://murselsen.github.io/goit-09/",
+  "homepage": "http://ookanozdemir.github.io/goit-js-hw-11/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-11/",
