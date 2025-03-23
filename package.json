@@ -1,14 +1,14 @@
 {
   "name": "goit-js-hw-11",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-11/",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d buinpm ld"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
